@@ -1,0 +1,28 @@
+{
+  "name": "BrienzTest",
+  "author": "Mautic team",
+  "authorUrl": "https://mautic.org",
+  "builder": ["grapesjsbuilder"],
+  "features": [
+    "email"
+  ],
+  "emailPresets": {
+    "fromName": "bri",
+    "fromAddress": "bri@bri.com",
+    "bccAddress": "brienz@bri.com",
+    "useContactOwnerAsMailer": false,
+    "customHeaders": {
+      "brienzheader": "bri"
+    },
+    "segments": [
+      "Segment3"
+    ],
+    "excludeSegments": [
+      "Segment1"
+    ],
+    "utmCampaignSource": "1",
+    "utmCampaignMedium": "2",
+    "utmCampaignName": "3",
+    "utmCampaignContent": "5"
+  }
+}
