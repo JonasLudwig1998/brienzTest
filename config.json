@@ -23,6 +23,8 @@
     "utmCampaignSource": "1",
     "utmCampaignMedium": "2",
     "utmCampaignName": "3",
-    "utmCampaignContent": "5"
+    "utmCampaignContent": "5",
+    "subject": "brienz subject",
+    "internalName": "brienz internal name"
   }
 }
