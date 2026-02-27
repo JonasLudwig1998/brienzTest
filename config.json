@@ -24,6 +24,7 @@
     "utmCampaignMedium": "2",
     "utmCampaignName": "3",
     "utmCampaignContent": "5",
+    "utmCustomParameters": "baz=qux",
     "subject": "brienz subject",
     "internalName": "brienz internal name"
   }
